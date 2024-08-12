@@ -1,6 +1,6 @@
 <html> 
 	<head> 
-	<title>Hakuna matata, Adios </title>
+	<title>Hastala Vista baby </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 	</head>
 
